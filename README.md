@@ -18,7 +18,6 @@ page first.
 - [X6100 Control](https://github.com/strijar/x6100_control) - A base control
   library and RPC server for the X6100.
   See also the [Aether-branded fork](https://github.com/ruilvo/AetherX6100Control).
-- [WSPR tools for the X6100](https://github.com/sstjohn/x6100-wspr) - An effort
-  from @sstjohn to make the X6100 a capable WSPR receiver.
+- [WSPR tools for the X6100](https://github.com/sstjohn/x6100-wspr) - Make the X6100 a capable WSPR receiver.
 - [X6100 Armbian](https://github.com/Links2004/x6100-armbian) - A project to
   make Armbian available on the X6100.
