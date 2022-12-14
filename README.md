@@ -40,7 +40,8 @@ coordinated by Rui.
 - [WSPR tools for the X6100](https://github.com/sstjohn/x6100-wspr) - Make the
   X6100 a capable WSPR receiver.
 - [X6100 Armbian](https://github.com/Links2004/x6100-armbian) - A project to
-  make Armbian available on the X6100.
+  make Armbian available on the X6100. The project provides an OS pre-loaded
+  with ham-radio-related tools, like WSJT-X.
 
 ## Frontend application tools
 
