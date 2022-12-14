@@ -19,17 +19,31 @@ Join the group [here](https://discord.gg/ThGe9T5pHz).
 
 ## Software projects
 
+### Aether-Radio brand
+
+Aether-Radio is the brand of
+[Rui Oliveira, a.k.a CT7ALW, a.k.a LordKalma](https://github.com/ruilvo)
+for his radio-related projects.
+Some Xiegu X6100-related projects are now under this Aether-Radio brand, or
+coordinated by Rui.
+
 - [Aether X6100](https://github.com/ruilvo/AetherX6100) - A clean Buildroot
   project for building a full OS image for the X6100 without any vendor
   software.
-- [Jinglitai JLT4013A Driver](https://github.com/ruilvo/panel-jinglitai-jlt4013a) - A
-  full FOSS driver for the LCD panel on the X6100.
 - [Aether X6100 Control](https://github.com/ruilvo/AetherX6100Control) - A base
   control library and (eventual) RPC server for the X6100.
+- [Jinglitai JLT4013A Driver](https://github.com/ruilvo/panel-jinglitai-jlt4013a) - A
+  full FOSS driver for the LCD panel on the X6100.
+
+### Notable projects
+
 - [WSPR tools for the X6100](https://github.com/sstjohn/x6100-wspr) - Make the
   X6100 a capable WSPR receiver.
 - [X6100 Armbian](https://github.com/Links2004/x6100-armbian) - A project to
   make Armbian available on the X6100.
+
+## Reverse engineering
+
 - [X6100-TOADs](https://github.com/TemporarilyOffline/X6100-TOADs) - A
   collection of initial information on the Xiegu X6100.
 
