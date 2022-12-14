@@ -14,7 +14,7 @@ page first.
 
 Most Xiegu X6100 hackers, developers, enthusiasts, and pure newbies gathers on
 the [TOADs (Temporarily Offline Ham Radio)](https://www.youtube.com/@temporarilyoffline)
-Discord server, at the `#xiegu-6100` channel.
+Discord server, at the `#xiegu-x6100` channel.
 Join the group [here](https://discord.gg/ThGe9T5pHz).
 
 ## Software projects
