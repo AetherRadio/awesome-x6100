@@ -64,8 +64,11 @@ coordinated by Rui.
 
 ## Disclaimer
 
-The Awesome-X6100 repository does not hold itself responsible by the quality, or
-legality of the linked repositories.
-Our goal is to centralize available information, and we do it in good faith.
-If you find any of the projects violates any intelectual property rules, contact
-the owner, and contact us for immediate removal.
+The Awesome-X6100 repository maintainers do not make any guarantees about the
+quality, legality, or any other attribute of the linked repositories.
+The goal is to centralize available information, and the maintainers do it in
+good faith.
+If you find any of the projects violates any intelectual property rules, is
+damaging content to the community, or in any other way contrary to the spirit of
+_awesome_ X6100 content, contact the owner of the linked repository,  and raise
+an issue on this repository requiring removal.
