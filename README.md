@@ -35,17 +35,24 @@ coordinated by Rui.
 - [Jinglitai JLT4013A Driver](https://github.com/ruilvo/panel-jinglitai-jlt4013a) - A
   full FOSS driver for the LCD panel on the X6100.
 
-### Notable projects
+### Alternative OSes
 
 - [WSPR tools for the X6100](https://github.com/sstjohn/x6100-wspr) - Make the
   X6100 a capable WSPR receiver.
 - [X6100 Armbian](https://github.com/Links2004/x6100-armbian) - A project to
   make Armbian available on the X6100.
 
+## Frontend application tools
+
+- [X6100 Patcher](https://github.com/UT3UMS/x6100_patcher) - Patch the Xiegu
+  X6100's UI Qt app.
+
 ## Reverse engineering
 
 - [X6100-TOADs](https://github.com/TemporarilyOffline/X6100-TOADs) - A
   collection of initial information on the Xiegu X6100.
+- [X6100 Study](https://github.com/jcyfkimi/X6100_Study) - A "study report" of
+  the Xiegu X6100 software and hardware.
 
 ## Media
 
