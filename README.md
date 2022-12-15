@@ -18,12 +18,6 @@ for his radio-related projects.
 Some Xiegu X6100-related projects are now under this Aether-Radio brand, or
 coordinated by Rui.
 
-### Documentation projects
-
-- [Aether X6100 Study](https://github.com/ruilvo/AetherX6100Study) - A
-  repository dedicated to concentrate the scattered discoveries made about the
-  Xiegu X6100.
-
 ### Software projects
 
 - [Aether X6100](https://github.com/ruilvo/AetherX6100) - A clean Buildroot
