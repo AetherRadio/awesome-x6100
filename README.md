@@ -22,7 +22,8 @@ coordinated by Rui.
 
 - [Aether X6100](https://github.com/ruilvo/AetherX6100) - A clean Buildroot
   project for building a full OS image for the X6100 without any vendor
-  software.
+  software. Check its [wiki page](https://github.com/ruilvo/AetherX6100/wiki)
+  for our findings on the device.
 - [Aether X6100 Control](https://github.com/ruilvo/AetherX6100Control) - A base
   control library and (eventual) RPC server for the X6100.
 - [Jinglitai JLT4013A Driver](https://github.com/ruilvo/panel-jinglitai-jlt4013a) - A
