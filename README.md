@@ -10,6 +10,24 @@ Contributions are always welcome! Please take a look at the
 [contribution guidelines](https://github.com/ruilvo/awesome-x6100/blob/master/CONTRIBUTING.md)
 page first.
 
+## Aether-Radio brand
+
+Aether-Radio is the brand of
+[Rui Oliveira, a.k.a CT7ALW, a.k.a LordKalma](https://github.com/ruilvo)
+for his radio-related projects.
+Some Xiegu X6100-related projects are now under this Aether-Radio brand, or
+coordinated by Rui.
+
+### Software projects
+
+- [Aether X6100](https://github.com/ruilvo/AetherX6100) - A clean Buildroot
+  project for building a full OS image for the X6100 without any vendor
+  software.
+- [Aether X6100 Control](https://github.com/ruilvo/AetherX6100Control) - A base
+  control library and (eventual) RPC server for the X6100.
+- [Jinglitai JLT4013A Driver](https://github.com/ruilvo/panel-jinglitai-jlt4013a) - A
+  full FOSS driver for the LCD panel on the X6100.
+
 ## Community
 
 ### Discord channel
@@ -26,23 +44,7 @@ Join the group [here](https://discord.gg/ThGe9T5pHz).
 - [Xiegu X6100 Facebook group](https://www.facebook.com/groups/339307487629712)
   \- A group dedicated to the Xiegu X6100 on Facebook.
 
-## Software projects
-
-### Aether-Radio brand
-
-Aether-Radio is the brand of
-[Rui Oliveira, a.k.a CT7ALW, a.k.a LordKalma](https://github.com/ruilvo)
-for his radio-related projects.
-Some Xiegu X6100-related projects are now under this Aether-Radio brand, or
-coordinated by Rui.
-
-- [Aether X6100](https://github.com/ruilvo/AetherX6100) - A clean Buildroot
-  project for building a full OS image for the X6100 without any vendor
-  software.
-- [Aether X6100 Control](https://github.com/ruilvo/AetherX6100Control) - A base
-  control library and (eventual) RPC server for the X6100.
-- [Jinglitai JLT4013A Driver](https://github.com/ruilvo/panel-jinglitai-jlt4013a) - A
-  full FOSS driver for the LCD panel on the X6100.
+## Software and OSes
 
 ### Alternative OSes
 
