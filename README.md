@@ -12,10 +12,19 @@ page first.
 
 ## Community
 
+### Discord channel
+
 Most Xiegu X6100 hackers, developers, enthusiasts, and pure newbies gathers on
 the [TOADs (Temporarily Offline Ham Radio)](https://www.youtube.com/@temporarilyoffline)
 Discord server, at the `#xiegu-x6100` channel.
 Join the group [here](https://discord.gg/ThGe9T5pHz).
+
+### Other communities
+
+- [Xiegu X6100 user's group](https://groups.io/g/xiegu-x6100) - A Xiegu X6100
+  users group on [groups.io](https://groups.io).
+- [Xiegu X6100 Facebook group](https://www.facebook.com/groups/339307487629712)
+  \- A group dedicated to the Xiegu X6100 on Facebook.
 
 ## Software projects
 
@@ -54,6 +63,12 @@ coordinated by Rui.
   collection of initial information on the Xiegu X6100.
 - [X6100 Study](https://github.com/jcyfkimi/X6100_Study) - A "study report" of
   the Xiegu X6100 software and hardware.
+
+## Documentation
+
+- [M0ODH's quick reference
+  guide](https://groups.io/g/xiegu-x6100/attachment/1046/0/x6100%20cheatsheet%20-%20v0001.pdf)
+  \- A 4 page quick reference guide for the Xiegu X6100 by Darell, a.k.a M0ODH.
 
 ## Media
 
