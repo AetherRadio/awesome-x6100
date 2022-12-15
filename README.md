@@ -52,7 +52,7 @@ coordinated by Rui.
   make Armbian available on the X6100. The project provides an OS pre-loaded
   with ham-radio-related tools, like WSJT-X.
 
-## Frontend application tools
+### Frontend application tools
 
 - [X6100 Patcher](https://github.com/UT3UMS/x6100_patcher) - Patch the Xiegu
   X6100's UI Qt app.
