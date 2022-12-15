@@ -20,18 +20,18 @@ coordinated by Rui.
 
 ### Documentation projects
 
-- [Aether X6100 Study](https://github.com/ruilvo/AetherX6100Study) - A
+- [Aether X6100 Study](https://github.com/AetherRadio/X6100Study) - A
   repository dedicated to concentrate the available knowledge obtained during
   the hacking activities.
 
 ### Software projects
 
-- [Aether X6100 Buildroot](https://github.com/ruilvo/AetherX6100Buildroot) - A clean Buildroot
+- [Aether X6100 Buildroot](https://github.com/AetherRadio/X6100Buildroot) - A clean Buildroot
   project for building a full OS image for the X6100 without any vendor
   software.
-- [Aether X6100 Control](https://github.com/ruilvo/AetherX6100Control) - A base
+- [Aether X6100 Control](https://github.com/AetherRadio/X6100Control) - A base
   control library and (eventual) RPC server for the X6100.
-- [Jinglitai JLT4013A Driver](https://github.com/ruilvo/panel-jinglitai-jlt4013a) - A
+- [Jinglitai JLT4013A Driver](https://github.com/AetherRadio/panel-jinglitai-jlt4013a) - A
   full FOSS driver for the LCD panel on the X6100.
 
 ## Community
