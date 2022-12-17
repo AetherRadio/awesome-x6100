@@ -7,7 +7,7 @@ This is a curated list of **Awesome** X6100 resources, including software
 projects and others.
 
 Contributions are always welcome! Please take a look at the
-[contribution guidelines](https://github.com/ruilvo/awesome-x6100/blob/master/CONTRIBUTING.md)
+[contribution guidelines](https://github.com/AetherRadio/awesome-x6100/blob/master/CONTRIBUTING.md)
 page first.
 
 ## Aether-Radio brand
@@ -40,7 +40,7 @@ coordinated by Rui.
 
 Most Xiegu X6100 hackers, developers, enthusiasts, and pure newbies gathers on
 the [TOADs (Temporarily Offline Ham Radio)](https://www.youtube.com/@temporarilyoffline)
-Discord server, at the `#xiegu-x6100` channel.
+Discord server, at the `#xiegu-x6100-hacking` or `#xiegu-x6100-general` channels.
 Join the group [here](https://discord.gg/ThGe9T5pHz).
 
 ### Other communities
