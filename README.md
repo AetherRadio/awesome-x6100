@@ -30,7 +30,7 @@ coordinated by Rui.
   project for building a full OS image for the X6100 without any vendor
   software.
 - [Aether X6100 Control](https://github.com/AetherRadio/X6100Control) - A base
-  control library and (eventual) RPC server for the X6100.
+  control library providing an API for the X6100's backend controller.
 - [Jinglitai JLT4013A Driver](https://github.com/AetherRadio/panel-jinglitai-jlt4013a) - A
   full FOSS driver for the LCD panel on the X6100.
 
